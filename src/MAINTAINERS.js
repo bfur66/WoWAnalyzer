@@ -11,6 +11,10 @@ export const Zerotorescue = {
   github: 'MartijnHols',
   avatar: require('./Images/zerotorescue-avatar.png'),
 };
+export const bfur66 = {
+  nickname: 'BrentGuy',
+  github: 'bfur66',
+};
 export const blazyb = {
   nickname: 'blazyb',
   github: 'buimichael',
